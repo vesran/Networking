@@ -1,0 +1,843 @@
+﻿%
+% La ligne 1
+%
+La Défense - Grande Arche
+Pont de Neuilly
+Les Sablons (Jardin d'Acclimatation)
+Porte Maillot (Palais des Congrès)
+Argentine
+Charles de Gaulle — Étoile
+George V
+Franklin D. Roosevelt
+Champs-Élysées — Clemenceau (Grand Palais)
+Concorde
+Tuileries
+Palais Royal - Musée du Louvre
+Louvre — Rivoli
+Châtelet
+Hôtel de Ville
+Saint-Paul (Le Marais)
+Bastille
+Gare de Lyon
+Reuilly — Diderot
+Nation
+Porte de Vincennes
+Saint-Mandé
+Bérault
+Château de Vincennes
+%
+% La ligne 2
+%
+Porte Dauphine (Maréchal de Lattre de Tassigny)
+Victor Hugo
+Charles de Gaulle — Étoile
+Ternes
+Courcelles
+Monceau
+Villiers
+Rome
+Place de Clichy
+Blanche
+Pigalle
+Anvers (Sacré-Cœur)
+Barbès — Rochechouart
+La Chapelle
+Gare du Nord
+Stalingrad
+Jaurès
+Colonel Fabien
+Belleville
+Couronnes
+Ménilmontant
+Père Lachaise
+Philippe Auguste
+Alexandre Dumas
+Avron
+Nation
+%
+%Ligne 3
+%
+Pont de Levallois — Bécon
+Anatole France
+Louise Michel
+Porte de Champerret
+Pereire (Maréchal Juin)
+Wagram
+Malesherbes
+Villiers
+Europe
+Saint-Lazare
+Havre — Caumartin
+Opéra
+Quatre-Septembre
+Bourse
+Sentier
+Réaumur — Sébastopol
+Arts et Métiers
+Temple
+République
+Parmentier
+Rue Saint-Maur
+Père Lachaise
+Gambetta
+Porte de Bagnolet
+Gallieni (Parc de Bagnolet)
+%
+% La ligne 3bis
+%
+Porte des Lilas
+Saint-Fargeau
+Pelleport
+Gambetta
+%
+% Ligne 4
+%
+Porte de Clignancourt
+Simplon
+Marcadet — Poissonniers
+Château Rouge
+Barbès — Rochechouart
+Gare du Nord
+Gare de l'Est (Verdun)
+Château d'Eau
+Strasbourg — Saint-Denis
+Réaumur — Sébastopol
+Étienne Marcel
+Les Halles
+Châtelet
+Cité
+Saint-Michel
+Odéon
+Saint-Germain-des-Prés
+Saint-Sulpice
+Saint-Placide
+Montparnasse — Bienvenüe
+Vavin
+Raspail
+Denfert-Rochereau
+Mouton-Duvernet
+Alésia
+Porte d'Orléans (Général Leclerc)
+Mairie de Montrouge
+%
+% Ligne 5
+%
+Bobigny - Pablo Picasso
+Bobigny — Pantin — Raymond Queneau
+Église de Pantin
+Hoche
+Porte de Pantin (Parc de la Villette)
+Ourcq
+Laumière
+Jaurès
+Stalingrad
+Gare du Nord
+Gare de l'Est (Verdun)
+Jacques Bonsergent
+République
+Oberkampf
+Richard-Lenoir
+Bréguet — Sabin
+Bastille
+Quai de la Rapée
+Gare d'Austerlitz
+Saint-Marcel
+Campo-Formio
+Place d'Italie
+%
+% Ligne 6
+%
+Charles de Gaulle — Étoile
+Kléber
+Boissière
+Trocadéro
+Passy
+Bir-Hakeim (Tour Eiffel)
+Dupleix
+La Motte-Picquet — Grenelle
+Cambronne
+Sèvres — Lecourbe
+Pasteur
+Montparnasse — Bienvenüe
+Edgar Quinet
+Raspail
+Denfert-Rochereau
+Saint-Jacques
+Glacière
+Corvisart
+Place d'Italie
+Nationale
+Chevaleret
+Quai de la Gare
+Bercy
+Gare de Bercy
+Dugommier
+Daumesnil (Félix Éboué)
+Bel-Air
+Picpus (Courteline)
+Nation
+%
+% Ligne 7
+%
+La Courneuve — 8 Mai 1945
+Fort d'Aubervilliers
+Aubervilliers — Pantin — Quatre Chemins
+Porte de la Villette (Cité des Sciences et de l'Industrie)
+Corentin Cariou
+Crimée
+Riquet
+Stalingrad
+Louis Blanc
+Château-Landon
+Gare de l'Est (Verdun)
+Poissonnière
+Cadet
+Le Peletier
+Chaussée d'Antin — La Fayette
+Opéra
+Pyramides
+Palais Royal — Musée du Louvre
+Pont Neuf
+Châtelet
+Pont Marie (Cité des Arts)
+Sully — Morland
+Jussieu
+Place Monge (Jardin des Plantes - Arènes de Lutèce)
+Censier — Daubenton
+Les Gobelins
+Place d'Italie
+Tolbiac
+Maison Blanche
+Porte d'Italie
+Porte de Choisy
+Porte d'Ivry
+Pierre et Marie Curie
+Mairie d'Ivry
+Le Kremlin-Bicêtre
+Villejuif — Léo Lagrange
+Villejuif — Paul Vaillant-Couturier (Hôpital Paul Brousse)
+Villejuif — Louis Aragon
+% Ligne 7 Bis
+%
+Louis Blanc
+Jaurès
+Bolivar
+Buttes Chaumont
+Botzaris
+Place des Fêtes
+Danube
+Pré Saint-Gervais
+%
+% Ligne 8
+%
+Balard
+Lourmel
+Boucicaut
+Félix Faure
+Commerce
+La Motte-Picquet — Grenelle
+École Militaire
+La Tour-Maubourg
+Invalides
+Concorde
+Madeleine
+Opéra
+Richelieu — Drouot
+Grands Boulevards
+Bonne Nouvelle
+Strasbourg — Saint-Denis
+République
+Filles du Calvaire
+Saint-Sébastien — Froissart
+Chemin Vert
+Bastille
+Ledru-Rollin
+Faidherbe — Chaligny
+Reuilly — Diderot
+Montgallet
+Daumesnil (Félix Éboué)
+Michel Bizot
+Porte Dorée
+Porte de Charenton
+Liberté
+Charenton — Écoles (Place Aristide Briand)
+École Vétérinaire de Maisons-Alfort
+Maisons-Alfort — Stade
+Maisons-Alfort — Les Juilliottes
+Créteil — L'Échat (Hôpital Henri Mondor)
+Créteil — Université
+Créteil — Préfecture (Hôtel de Ville)
+%
+% Ligne 9
+%
+Pont de Sèvres
+Billancourt
+Marcel Sembat
+Porte de Saint-Cloud (Parc des Princes)
+Exelmans
+Michel-Ange — Molitor
+Michel-Ange — Auteuil
+Jasmin
+Ranelagh
+La Muette
+Rue de la Pompe (Avenue Georges Mandel)
+Trocadéro
+Iéna
+Alma — Marceau
+Franklin D. Roosevelt
+Saint-Philippe du Roule
+Miromesnil
+Saint-Augustin
+Havre — Caumartin
+Chaussée d'Antin — La Fayette
+Richelieu — Drouot
+Grands Boulevards
+Bonne Nouvelle
+Strasbourg — Saint-Denis
+République
+Oberkampf
+Saint-Ambroise
+Voltaire (Léon Blum)
+Charonne
+Rue des Boulets
+Nation
+Buzenval
+Maraîchers
+Porte de Montreuil
+Robespierre
+Croix de Chavaux (Place Jacques Duclos)
+Mairie de Montreuil
+%
+% Ligne 10
+%
+Boulogne — Pont de Saint-Cloud (Rhin et Danube)
+Boulogne — Jean Jaurès
+Sens Ouest-Est
+Michel-Ange — Molitor
+Porte d'Auteuil
+Chardon-Lagache
+Michel-Ange — Auteuil
+Mirabeau
+Église d'Auteuil
+Javel — André Citroën
+Charles Michels
+Avenue Émile Zola
+La Motte-Picquet — Grenelle
+Ségur
+Duroc
+Vaneau
+Sèvres — Babylone
+Mabillon
+Odéon
+Cluny — La Sorbonne
+Maubert — Mutualité
+Cardinal Lemoine
+Jussieu
+Gare d'Austerlitz
+%
+% Ligne 11
+%
+Mairie des Lilas
+Porte des Lilas
+Télégraphe
+Place des Fêtes
+Jourdain
+Pyrénées
+Belleville
+Goncourt (Hôpital-Saint-Louis)
+République
+Arts et Métiers
+Rambuteau (Centre Georges Pompidou)
+Hôtel de Ville
+Châtelet
+%
+% Ligne 12
+%
+Porte de la Chapelle
+Marx Dormoy
+Marcadet — Poissonniers
+Jules Joffrin
+Lamarck — Caulaincourt
+Abbesses (Butte Montmartre)
+Pigalle
+Saint-Georges
+Notre-Dame-de-Lorette
+Trinité — d'Estienne d'Orves
+Saint-Lazare
+Madeleine
+Concorde
+Assemblée nationale
+Solférino (Musée d'Orsay)
+Rue du Bac
+Sévres — Babylone
+Rennes
+Notre-Dame-des-Champs
+Montparnasse — Bienvenüe
+Falguière
+Pasteur
+Volontaires
+Vaugirard (Adolphe Chérioux)
+Convention
+Porte de Versailles (Parc des Expositions de Paris)
+Corentin Celton
+Mairie d'Issy
+%
+% Ligne 13
+%
+Saint-Denis - Université
+Basilique de Saint-Denis (Hôtel de Ville)
+Saint-Denis - Porte de Paris (Stade de France)
+Carrefour Pleyel
+Mairie de Saint-Ouen
+Garibaldi
+Porte de Saint-Ouen
+Guy Môquet
+Gabriel Péri - Asnières - Gennevilliers
+Mairie de Clichy
+Porte de Clichy
+Brochant
+La Fourche
+Place de Clichy
+Liège
+Saint-Lazare
+Miromesnil
+Champs-Élysées — Clemenceau (Grand Palais)
+Invalides
+Varenne
+Saint-François-Xavier
+Duroc
+Montparnasse — Bienvenüe
+Gaîté
+Pernety
+Plaisance
+Porte de Vanves
+Malakoff — Plateau de Vanves
+Malakoff — Rue Étienne Dolet
+Châtillon — Montrouge
+%
+% Ligne 14
+%
+Saint-Lazare
+Madeleine
+Pyramides
+Châtelet
+Gare de Lyon
+Bercy
+Cour Saint-Émilion
+Bibliothèque François Mitterrand
+Olympiades
+### connections
+%
+%
+%ligne 1
+%
+La Défense - Grande Arche:1:Pont de Neuilly
+Pont de Neuilly:1:Les Sablons (Jardin d'Acclimatation)
+Les Sablons (Jardin d'Acclimatation):1:Porte Maillot (Palais des Congrès)
+Porte Maillot (Palais des Congrès):1:Argentine
+Argentine:1:Charles de Gaulle — Étoile
+Charles de Gaulle — Étoile:1:George V
+George V:1:Franklin D. Roosevelt
+Franklin D. Roosevelt:1:Champs-Élysées — Clemenceau (Grand Palais)
+Champs-Élysées — Clemenceau (Grand Palais):1:Concorde
+Concorde:1:Tuileries
+Tuileries:1:Palais Royal - Musée du Louvre
+Palais Royal - Musée du Louvre:1:Louvre — Rivoli
+Louvre — Rivoli:1:Châtelet
+Châtelet:1:Hôtel de Ville
+Hôtel de Ville:1:Saint-Paul (Le Marais)
+Saint-Paul (Le Marais):1:Bastille
+Bastille:1:Gare de Lyon
+Gare de Lyon:1:Reuilly — Diderot
+Reuilly — Diderot:1:Nation
+Nation:1:Porte de Vincennes
+Porte de Vincennes:1:Saint-Mandé
+Saint-Mandé:1:Bérault
+Bérault:1:Château de Vincennes
+%
+% ligne 2
+%
+Porte Dauphine (Maréchal de Lattre de Tassigny):2:Victor Hugo
+Victor Hugo:2:Charles de Gaulle — Étoile
+Charles de Gaulle — Étoile:2:Ternes
+Ternes:2:Courcelles
+Courcelles:2:Monceau
+Monceau:2:Villiers
+Villiers:2:Rome
+Rome:2:Place de Clichy
+Place de Clichy:2:Blanche
+Blanche:2:Pigalle
+Pigalle:2:Anvers (Sacré-Cœur)
+Anvers (Sacré-Cœur):2:Barbès — Rochechouart
+Barbès — Rochechouart:2:La Chapelle
+La Chapelle:2:Gare du Nord
+Gare du Nord:2:Stalingrad
+Stalingrad:2:Jaurès
+Jaurès:2:Colonel Fabien
+Colonel Fabien:2:Belleville
+Belleville:2:Couronnes
+Couronnes:2:Ménilmontant
+Ménilmontant:2:Père Lachaise
+Père Lachaise:2:Philippe Auguste
+Philippe Auguste:2:Alexandre Dumas
+Alexandre Dumas:2:Avron
+Avron:2:Nation
+%
+% ligne 3
+%
+Pont de Levallois — Bécon:3:Anatole France
+Anatole France:3:Louise Michel
+Louise Michel:3:Porte de Champerret
+Porte de Champerret:3:Pereire (Maréchal Juin)
+Pereire (Maréchal Juin):3:Wagram
+Wagram:3:Malesherbes
+Malesherbes:3:Villiers
+Villiers:3:Europe
+Europe:3:Saint-Lazare
+Saint-Lazare:3:Havre — Caumartin
+Havre — Caumartin:3:Opéra
+Opéra:3:Quatre-Septembre
+Quatre-Septembre:3:Bourse
+Bourse:3:Sentier
+Sentier:3:Réaumur — Sébastopol
+Réaumur — Sébastopol:3:Arts et Métiers
+Arts et Métiers:3:Temple
+Temple:3:République
+République:3:Parmentier
+Parmentier:3:Rue Saint-Maur
+Rue Saint-Maur:3:Père Lachaise
+Père Lachaise:3:Gambetta
+Gambetta:3:Porte de Bagnolet
+Porte de Bagnolet:3:Gallieni (Parc de Bagnolet)
+%
+% ligne 3 bis
+%
+Porte des Lilas:3b:Saint-Fargeau
+Saint-Fargeau:3b:Pelleport
+Pelleport:3b:Gambetta
+%
+% ligne 4
+%
+Porte de Clignancourt:4:Simplon
+Simplon:4:Marcadet — Poissonniers
+Marcadet — Poissonniers:4:Château Rouge
+Château Rouge:4:Barbès — Rochechouart
+Barbès — Rochechouart:4:Gare du Nord
+Gare du Nord:4:Gare de l'Est (Verdun)
+Gare de l'Est (Verdun):4:Château d'Eau
+Château d'Eau:4:Strasbourg — Saint-Denis
+Strasbourg — Saint-Denis:4:Réaumur — Sébastopol
+Réaumur — Sébastopol:4:Étienne Marcel
+Étienne Marcel:4:Les Halles
+Les Halles:4:Châtelet
+Châtelet:4:Cité
+Cité:4:Saint-Michel
+Saint-Michel:4:Odéon
+Odéon:4:Saint-Germain-des-Prés
+Saint-Germain-des-Prés:4:Saint-Sulpice
+Saint-Sulpice:4:Saint-Placide
+Saint-Placide:4:Montparnasse — Bienvenüe
+Montparnasse — Bienvenüe:4:Vavin
+Vavin:4:Raspail
+Raspail:4:Denfert-Rochereau
+Denfert-Rochereau:4:Mouton-Duvernet
+Mouton-Duvernet:4:Alésia
+Alésia:4:Porte d'Orléans (Général Leclerc)
+Porte d'Orléans (Général Leclerc):4:Mairie de Montrouge
+%
+% ligne 5
+%
+Bobigny - Pablo Picasso:5:Bobigny — Pantin — Raymond Queneau
+Bobigny — Pantin — Raymond Queneau:5:Église de Pantin
+Église de Pantin:5:Hoche
+Hoche:5:Porte de Pantin (Parc de la Villette)
+Porte de Pantin (Parc de la Villette):5:Ourcq
+Ourcq:5:Laumière
+Laumière:5:Jaurès
+Jaurès:5:Stalingrad
+Stalingrad:5:Gare du Nord
+Gare du Nord:5:Gare de l'Est (Verdun)
+Gare de l'Est (Verdun):5:Jacques Bonsergent
+Jacques Bonsergent:5:République
+République:5:Oberkampf
+Oberkampf:5:Richard-Lenoir
+Richard-Lenoir:5:Bréguet — Sabin
+Bréguet — Sabin:5:Bastille
+Bastille:5:Quai de la Rapée
+Quai de la Rapée:5:Gare d'Austerlitz
+Gare d'Austerlitz:5:Saint-Marcel
+Saint-Marcel:5:Campo-Formio
+Campo-Formio:5:Place d'Italie
+%
+% Ligne 6
+Charles de Gaulle — Étoile:6:Kléber
+Kléber:6:Boissière
+Boissière:6:Trocadéro
+Trocadéro:6:Passy
+Passy:6:Bir-Hakeim (Tour Eiffel)
+Bir-Hakeim (Tour Eiffel):6:Dupleix
+Dupleix:6:La Motte-Picquet — Grenelle
+La Motte-Picquet — Grenelle:6:Cambronne
+Cambronne:6:Sèvres — Lecourbe
+Sèvres — Lecourbe:6:Pasteur
+Pasteur:6:Montparnasse — Bienvenüe
+Montparnasse — Bienvenüe:6:Edgar Quinet
+Edgar Quinet:6:Raspail
+Raspail:6:Denfert-Rochereau
+Denfert-Rochereau:6:Saint-Jacques
+Saint-Jacques:6:Glacière
+Glacière:6:Corvisart
+Corvisart:6:Place d'Italie
+Place d'Italie:6:Nationale
+Nationale:6:Chevaleret
+Chevaleret:6:Quai de la Gare
+Quai de la Gare:6:Bercy
+Bercy:6:Gare de Bercy
+Gare de Bercy:6:Dugommier
+Dugommier:6:Daumesnil (Félix Éboué)
+Daumesnil (Félix Éboué):6:Bel-Air
+Bel-Air:6:Picpus (Courteline)
+Picpus (Courteline):6:Nation
+%
+% Ligne 7
+%
+La Courneuve — 8 Mai 1945:7:Fort d'Aubervilliers
+Fort d'Aubervilliers:7:Aubervilliers — Pantin — Quatre Chemins
+Aubervilliers — Pantin — Quatre Chemins:7:Porte de la Villette (Cité des Sciences et de l'Industrie)
+Porte de la Villette (Cité des Sciences et de l'Industrie):7:Corentin Cariou
+Corentin Cariou:7:Crimée
+Crimée:7:Riquet
+Riquet:7:Stalingrad
+Stalingrad:7:Louis Blanc
+Louis Blanc:7:Château-Landon
+Château-Landon:7:Gare de l'Est (Verdun)
+Gare de l'Est (Verdun):7:Poissonnière
+Poissonnière:7:Cadet
+Cadet:7:Le Peletier
+Le Peletier:7:Chaussée d'Antin — La Fayette
+Chaussée d'Antin — La Fayette:7:Opéra
+Opéra:7:Pyramides
+Pyramides:7:Palais Royal — Musée du Louvre
+Palais Royal — Musée du Louvre:7:Pont Neuf
+Pont Neuf:7:Châtelet
+Châtelet:7:Pont Marie (Cité des Arts)
+Pont Marie (Cité des Arts):7:Sully — Morland
+Sully — Morland:7:Jussieu
+Jussieu:7:Place Monge (Jardin des Plantes - Arènes de Lutèce)
+Place Monge (Jardin des Plantes - Arènes de Lutèce):7:Censier — Daubenton
+Censier — Daubenton:7:Les Gobelins
+Les Gobelins:7:Place d'Italie
+Place d'Italie:7:Tolbiac
+Tolbiac:7:Maison Blanche
+Maison Blanche:7:Porte d'Italie
+Porte d'Italie:7:Porte de Choisy
+Porte de Choisy:7:Porte d'Ivry
+Porte d'Ivry:7:Pierre et Marie Curie
+Pierre et Marie Curie:7:Mairie d'Ivry
+Maison Blanche:7:Le Kremlin-Bicêtre
+Le Kremlin-Bicêtre:7:Villejuif — Léo Lagrange
+Villejuif — Léo Lagrange:7:Villejuif — Paul Vaillant-Couturier (Hôpital Paul Brousse)
+Villejuif — Paul Vaillant-Couturier (Hôpital Paul Brousse):7:Villejuif — Louis Aragon
+%
+% Ligne 7bis
+%
+Louis Blanc:7b:Jaurès
+Jaurès:7b:Bolivar
+Bolivar:7b:Buttes Chaumont
+Buttes Chaumont:7b:Botzaris
+Botzaris>7b>Place des Fêtes
+Place des Fêtes>7b>Pré Saint-Gervais
+Pré Saint-Gervais>7b>Danube
+Danube>7b>Botzaris
+%
+% Ligne 8
+%
+Balard:8:Lourmel
+Lourmel:8:Boucicaut
+Boucicaut:8:Félix Faure
+Félix Faure:8:Commerce
+Commerce:8:La Motte-Picquet — Grenelle
+La Motte-Picquet — Grenelle:8:École Militaire
+École Militaire:8:La Tour-Maubourg
+La Tour-Maubourg:8:Invalides
+Invalides:8:Concorde
+Concorde:8:Madeleine
+Madeleine:8:Opéra
+Opéra:8:Richelieu — Drouot
+Richelieu — Drouot:8:Grands Boulevards
+Grands Boulevards:8:Bonne Nouvelle
+Bonne Nouvelle:8:Strasbourg — Saint-Denis
+Strasbourg — Saint-Denis:8:République
+République:8:Filles du Calvaire
+Filles du Calvaire:8:Saint-Sébastien — Froissart
+Saint-Sébastien — Froissart:8:Chemin Vert
+Chemin Vert:8:Bastille
+Bastille:8:Ledru-Rollin
+Ledru-Rollin:8:Faidherbe — Chaligny
+Faidherbe — Chaligny:8:Reuilly — Diderot
+Reuilly — Diderot:8:Montgallet
+Montgallet:8:Daumesnil (Félix Éboué)
+Daumesnil (Félix Éboué):8:Michel Bizot
+Michel Bizot:8:Porte Dorée
+Porte Dorée:8:Porte de Charenton
+Porte de Charenton:8:Liberté
+Liberté:8:Charenton — Écoles (Place Aristide Briand)
+Charenton — Écoles (Place Aristide Briand):8:École Vétérinaire de Maisons-Alfort
+École Vétérinaire de Maisons-Alfort:8:Maisons-Alfort — Stade
+Maisons-Alfort — Stade:8:Maisons-Alfort — Les Juilliottes
+Maisons-Alfort — Les Juilliottes:8:Créteil — L'Échat (Hôpital Henri Mondor)
+Créteil — L'Échat (Hôpital Henri Mondor):8:Créteil — Université
+Créteil — Université:8:Créteil — Préfecture (Hôtel de Ville)
+%
+% Ligne 9
+%
+Pont de Sèvres:9:Billancourt
+Billancourt:9:Marcel Sembat
+Marcel Sembat:9:Porte de Saint-Cloud (Parc des Princes)
+Porte de Saint-Cloud (Parc des Princes):9:Exelmans
+Exelmans:9:Michel-Ange — Molitor
+Michel-Ange — Molitor:9:Michel-Ange — Auteuil
+Michel-Ange — Auteuil:9:Jasmin
+Jasmin:9:Ranelagh
+Ranelagh:9:La Muette
+La Muette:9:Rue de la Pompe (Avenue Georges Mandel)
+Rue de la Pompe (Avenue Georges Mandel):9:Trocadéro
+Trocadéro:9:Iéna
+Iéna:9:Alma — Marceau
+Alma — Marceau:9:Franklin D. Roosevelt
+Franklin D. Roosevelt:9:Saint-Philippe du Roule
+Saint-Philippe du Roule:9:Miromesnil
+Miromesnil:9:Saint-Augustin
+Saint-Augustin:9:Havre — Caumartin
+Havre — Caumartin:9:Chaussée d'Antin — La Fayette
+Chaussée d'Antin — La Fayette:9:Richelieu — Drouot
+Richelieu — Drouot:9:Grands Boulevards
+Grands Boulevards:9:Bonne Nouvelle
+Bonne Nouvelle:9:Strasbourg — Saint-Denis
+Strasbourg — Saint-Denis:9:République
+République:9:Oberkampf
+Oberkampf:9:Saint-Ambroise
+Saint-Ambroise:9:Voltaire (Léon Blum)
+Voltaire (Léon Blum):9:Charonne
+Charonne:9:Rue des Boulets
+Rue des Boulets:9:Nation
+Nation:9:Buzenval
+Buzenval:9:Maraîchers
+Maraîchers:9:Porte de Montreuil
+Porte de Montreuil:9:Robespierre
+Robespierre:9:Croix de Chavaux (Place Jacques Duclos)
+Croix de Chavaux (Place Jacques Duclos):9:Mairie de Montreuil
+%
+% Ligne 10
+%
+Boulogne — Pont de Saint-Cloud (Rhin et Danube):Boulogne — Jean Jaurès
+Boulogne — Jean Jaurès>10>Michel-Ange — Molitor
+Michel-Ange — Molitor>10>Chardon-Lagache
+Chardon-Lagache>10>Mirabeau
+Mirabeau>10>Javel — André Citroën
+Porte d'Auteuil>10>Boulogne — Jean Jaurès
+Michel-Ange — Auteuil>10>Porte d'Auteuil
+Église d'Auteuil>10>Michel-Ange — Auteuil
+Javel — André Citroën>10>Église d'Auteuil
+Javel — André Citroën:10:Charles Michels
+Charles Michels:10:Avenue Émile Zola
+Avenue Émile Zola:10:La Motte-Picquet — Grenelle
+La Motte-Picquet — Grenelle:10:Ségur
+Ségur:10:Duroc
+Duroc:10:Vaneau
+Vaneau:10:Sèvres — Babylone
+Sèvres — Babylone:10:Mabillon
+Mabillon:10:Odéon
+Odéon:10:Cluny — La Sorbonne
+Cluny — La Sorbonne:10:Maubert — Mutualité
+Maubert — Mutualité:10:Cardinal Lemoine
+Cardinal Lemoine:10:Jussieu
+Jussieu:10:Gare d'Austerlitz
+%
+% Ligne 11
+%
+Mairie des Lilas:11:Porte des Lilas
+Porte des Lilas:11:Télégraphe
+Télégraphe:11:Place des Fêtes
+Place des Fêtes:11:Jourdain
+Jourdain:11:Pyrénées
+Pyrénées:11:Belleville
+Belleville:11:Goncourt (Hôpital-Saint-Louis)
+Goncourt (Hôpital-Saint-Louis):11:République
+République:11:Arts et Métiers
+Arts et Métiers:11:Rambuteau (Centre Georges Pompidou)
+Rambuteau (Centre Georges Pompidou):11:Hôtel de Ville
+Hôtel de Ville:11:Châtelet
+%
+% Ligne 12
+%
+Porte de la Chapelle:Marx Dormoy
+Marx Dormoy:12:Marcadet — Poissonniers
+Marcadet — Poissonniers:12:Jules Joffrin
+Jules Joffrin:12:Lamarck — Caulaincourt
+Lamarck — Caulaincourt:12:Abbesses (Butte Montmartre)
+Abbesses (Butte Montmartre):12:Pigalle
+Pigalle:12:Saint-Georges
+Saint-Georges:12:Notre-Dame-de-Lorette
+Notre-Dame-de-Lorette:12:Trinité — d'Estienne d'Orves
+Trinité — d'Estienne d'Orves:12:Saint-Lazare
+Saint-Lazare:12:Madeleine
+Madeleine:12:Concorde
+Concorde:12:Assemblée nationale
+Assemblée nationale:12:Solférino (Musée d'Orsay)
+Solférino (Musée d'Orsay):12:Rue du Bac
+Rue du Bac:12:Sévres — Babylone
+Sévres — Babylone:12:Rennes
+Rennes:12:Notre-Dame-des-Champs
+Notre-Dame-des-Champs:12:Montparnasse — Bienvenüe
+Montparnasse — Bienvenüe:12:Falguière
+Falguière:12:Pasteur
+Pasteur:12:Volontaires
+Volontaires:12:Vaugirard (Adolphe Chérioux)
+Vaugirard (Adolphe Chérioux):12:Convention
+Convention:12:Porte de Versailles (Parc des Expositions de Paris)
+Porte de Versailles (Parc des Expositions de Paris):12:Corentin Celton
+Corentin Celton:12:Mairie d'Issy
+%
+% Ligne 13
+%
+Saint-Denis - Université:13:Basilique de Saint-Denis (Hôtel de Ville)
+Basilique de Saint-Denis (Hôtel de Ville):13:Saint-Denis - Porte de Paris (Stade de France)
+Saint-Denis - Porte de Paris (Stade de France):13:Carrefour Pleyel
+Carrefour Pleyel:13:Mairie de Saint-Ouen
+Mairie de Saint-Ouen:13:Garibaldi
+Garibaldi:13:Porte de Saint-Ouen
+Porte de Saint-Ouen:13:Guy Môquet
+Guy Môquet:13:La Fourche
+Gabriel Péri - Asnières - Gennevilliers:13:Mairie de Clichy
+Mairie de Clichy:13:Porte de Clichy
+Porte de Clichy:13:Brochant
+Brochant:13:La Fourche
+La Fourche:13:Place de Clichy
+Place de Clichy:13:Liège
+Liège:13:Saint-Lazare
+Saint-Lazare:13:Miromesnil
+Miromesnil:13:Champs-Élysées — Clemenceau (Grand Palais)
+Champs-Élysées — Clemenceau (Grand Palais):13:Invalides
+Invalides:13:Varenne
+Varenne:13:Saint-François-Xavier
+Saint-François-Xavier:13:Duroc
+Duroc:13:Montparnasse — Bienvenüe
+Montparnasse — Bienvenüe:13:Gaîté
+Gaîté:13:Pernety
+Pernety:13:Plaisance
+Plaisance:13:Porte de Vanves
+Porte de Vanves:13:Malakoff — Plateau de Vanves
+Malakoff — Plateau de Vanves:13:Malakoff — Rue Étienne Dolet
+Malakoff — Rue Étienne Dolet:13:Châtillon — Montrouge
+%
+% Ligne 14
+%
+Saint-Lazare:14:Madeleine
+Madeleine:14:Pyramides
+Pyramides:14:Châtelet
+Châtelet:14:Gare de Lyon
+Gare de Lyon:14:Bercy
+Bercy:14:Cour Saint-Émilion
+Cour Saint-Émilion:14:Bibliothèque François Mitterrand
+Bibliothèque François Mitterrand:14:Olympiades
